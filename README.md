@@ -1,16 +1,117 @@
-## Hi there 👋
+<!-- Banner -->
+<div align="center">
 
-<!--
-**brahuerta20-cpu/brahuerta20-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola 👋 Soy Braian de la Huerta
 
-Here are some ideas to get you started:
+### Data Analyst | Supply Chain | Python | SQL | Power BI
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Transformando+datos+en+decisiones;Automatizando+procesos+con+Python;Dashboards+que+cuentan+historias;Supply+Chain+%7C+Business+Intelligence" />
+
+</div>
+
+---
+
+## 🚀 Sobre mí
+
+Soy analista de datos con experiencia en **operaciones logísticas y Supply Chain**, donde descubrí que detrás de cada retraso, inventario o KPI existe una historia que puede explicarse con datos.
+
+Mi enfoque va más allá de construir dashboards. Me gusta entender cómo funciona la operación, detectar oportunidades de mejora y desarrollar soluciones que realmente faciliten la toma de decisiones.
+
+He trabajado integrando información de **WMS, SAP, CRM y Excel**, colaborando con equipos de TI y Operaciones para transformar procesos manuales en análisis más rápidos, confiables y útiles.
+
+Actualmente continúo fortaleciendo mis conocimientos en análisis de datos, automatización y visualización para desarrollar soluciones con impacto real en el negocio.
+
+---
+
+# 💻 Tecnologías
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau,excel"/>
+
+</p>
+
+### También trabajo con
+
+<p>
+
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/SAP-0FAAFF?style=for-the-badge&logo=sap&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/WMS-1D3557?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion"/>
+
+<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"/>
+
+</p>
+
+---
+
+# 📈 Actualmente
+
+- 📊 Creando dashboards para apoyar decisiones de negocio.
+- 🐍 Automatizando procesos con Python.
+- 🧹 Mejorando calidad e integración de datos.
+- 📦 Aplicando analítica a procesos de Supply Chain.
+
+---
+
+# 📊 Estadísticas
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📉 Animación de análisis de datos
+
+<div align="center">
+
+<img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+
+</div>
+
+> La animación muestra una "serpiente" recorriendo el mapa de contribuciones de GitHub, simulando el flujo de datos a través de tu actividad.
+
+---
+
+# 🌎 Conecta conmigo
+
+<p align="center">
+
+<a href="mailto:braianhuerta.data@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+<a href="https://linkedin.com/in/braianhuerta-data">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/TU_USUARIO">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### "Los datos por sí solos no generan valor; el impacto aparece cuando ayudan a tomar mejores decisiones."
+
+</div>
