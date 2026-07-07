@@ -33,7 +33,7 @@ Actualmente continúo fortaleciendo mis conocimientos en análisis de datos, aut
 
 <p align="center">
 
-<img src="https://go-skill-icons.vercel.app/api/icons?i=powerbi,tableau,excel"/>
+<img src="https://go-skill-icons.vercel.app/api/icons?i=claude,chatgpt,tableau,excel"/>
 
 </p>
 
