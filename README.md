@@ -27,7 +27,7 @@ Actualmente continúo fortaleciendo mis conocimientos en análisis de datos, aut
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=python,mysql,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=python,postgresql,github,vscode"/>
 
 </p>
 
