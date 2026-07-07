@@ -3,7 +3,7 @@
 
 # Hola 👋 Soy Braian de la Huerta
 
-### Data Analyst | Supply Chain | Python | SQL | Power BI
+### Analista de Datos | Supply Chain Analyst | Operations & Business Intelligence
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3500&pause=800&color=00C2FF&center=true&vCenter=true&width=650&lines=Transformando+datos+en+decisiones;Automatizando+procesos+con+Python;Dashboards+que+cuentan+historias;Supply+Chain+%7C+Business+Intelligence" />
 
