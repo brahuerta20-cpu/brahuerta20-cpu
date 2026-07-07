@@ -47,6 +47,8 @@ Actualmente continúo fortaleciendo mis conocimientos en análisis de datos, aut
 
 <img src="https://img.shields.io/badge/WMS-1D3557?style=for-the-badge"/>
 
+<img src="https://img.shields.io/badge/Power BI-d8b800?style=for-the-badge"/>
+
 <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=looker&logoColor=white"/>
 
 <img src="https://img.shields.io/badge/Notion-black?style=for-the-badge&logo=notion"/>
