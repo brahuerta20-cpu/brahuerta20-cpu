@@ -70,9 +70,9 @@ Actualmente continúo fortaleciendo mis conocimientos en análisis de datos, aut
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=brahuerta20-cpu&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brahuerta20-cpu&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -102,7 +102,7 @@ Actualmente continúo fortaleciendo mis conocimientos en análisis de datos, aut
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/TU_USUARIO">
+<a href="https://github.com/brahuerta20-cpu">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
