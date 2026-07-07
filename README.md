@@ -9,7 +9,7 @@
 
 </div>
 
----
+
 
 ## 🚀 Sobre mí
 
@@ -21,7 +21,7 @@ He trabajado integrando información de **WMS, SAP, CRM y Excel**, colaborando c
 
 Actualmente continúo fortaleciendo mis conocimientos en análisis de datos, automatización y visualización para desarrollar soluciones con impacto real en el negocio.
 
----
+
 
 # 💻 Tecnologías
 
@@ -55,7 +55,7 @@ Actualmente continúo fortaleciendo mis conocimientos en análisis de datos, aut
 
 </p>
 
----
+
 
 # 📈 Actualmente
 
@@ -64,7 +64,7 @@ Actualmente continúo fortaleciendo mis conocimientos en análisis de datos, aut
 - 🧹 Mejorando calidad e integración de datos.
 - 📦 Aplicando analítica a procesos de Supply Chain.
 
----
+
 
 # 📊 Estadísticas
 
@@ -76,7 +76,7 @@ Actualmente continúo fortaleciendo mis conocimientos en análisis de datos, aut
 
 </p>
 
----
+
 
 # 📉 Animación de análisis de datos
 
@@ -108,7 +108,7 @@ Actualmente continúo fortaleciendo mis conocimientos en análisis de datos, aut
 
 </p>
 
----
+
 
 <div align="center">
 
